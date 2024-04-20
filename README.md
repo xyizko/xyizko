@@ -1,6 +1,8 @@
 
 <p align="center">
+<a href="https://xyizko.github.io/" target="_blank">
 <img src="https://github.com/xyizko/xyizko/assets/164354015/7df24b8b-3d04-48f7-8754-081aa6c09ac4">
+</a>
 <p>
 
 <p align="center">
@@ -17,4 +19,9 @@
 <img src="https://img.shields.io/youtube/channel/subscribers/UCFP0GycKuYo1gLxgTP68tdQ"></a>
 </p>
 
-![xyizo](https://github.com/xyizko/xyizko/assets/164354015/feff7004-1cd8-4cfa-aab9-b9d40b4c8934)
+<p align="center">
+<a href="https://xyizko.github.io/" target="_blank">
+<img src="https://github.com/xyizko/xyizko/assets/164354015/feff7004-1cd8-4cfa-aab9-b9d40b4c8934">
+</a>
+</p>
+
