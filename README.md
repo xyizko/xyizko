@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="https://xyizko.github.io/" target="_blank">
-<img src="https://github.com/xyizko/xyizko/assets/164354015/feff7004-1cd8-4cfa-aab9-b9d40b4c8934">
+<img src="./x.gif">
 </a>
 </p>
 
