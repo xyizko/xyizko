@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://xyizko.github.io/" target="_blank">
+<a href="https://twitter.com/xyizko" target="_blank">
 <img src="https://github.com/xyizko/xyizko/assets/164354015/7df24b8b-3d04-48f7-8754-081aa6c09ac4">
 </a>
 <p>
