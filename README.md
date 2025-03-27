@@ -21,7 +21,23 @@
 
 <p align="center">
 <a href="https://xyizko.github.io/" target="_blank">
-<img src="./x.gif">
+<img src="./gfx/x.gif">
+</a>
+</p>
+
+<p align="center">
+<img src="./gfx/div.gif">
+</p>
+
+<p align="center">
+<a href="https://xyizko.github.io/" target="_blank">
+<img src="./gfx/r1.png">
+</a>
+</p>
+
+<p align="center">
+<a href="https://xyizko.github.io/" target="_blank">
+<img src="./gfx/r2.png">
 </a>
 </p>
 
