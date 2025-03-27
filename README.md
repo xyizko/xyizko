@@ -26,9 +26,10 @@
 </p>
 
 <p align="center">
-<img src="./gfx/div.gif" width="10</p>00">
+<img src="./gfx/div.gif" width="1000">
 </p>
 
+</p>
 <p align="center">
 <a href="https://github.com/xyizko/xo-inv" target="_blank">
 <img src="./gfx/r1.png"></a>
