@@ -26,7 +26,9 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/xyizek" target="_blank">
 <img src="./gfx/div.gif" width="1000">
+</a>
 </p>
 
 </p>
