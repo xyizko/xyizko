@@ -30,13 +30,13 @@
 </p>
 
 <p align="center">
-<a href="https://xyizko.github.io/" target="_blank">
-<img src="./gfx/r1.png">
+<a href="https://github.com/xyizko/xo-inv" target="_blank">
+<img src="./gfx/r1.png"></a>
 </a>
 </p>
 
 <p align="center">
-<a href="https://xyizko.github.io/" target="_blank">
+<a href="https://github.com/xyizko/xo-rel" target="_blank">
 <img src="./gfx/r2.png">
 </a>
 </p>
