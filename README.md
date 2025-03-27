@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="./gfx/div.gif">
+<img src="./gfx/div.gif" width="10</p>00">
 </p>
 
 <p align="center">
