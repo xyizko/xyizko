@@ -7,8 +7,9 @@
 
 <p align="center">
 <a href="https://twitter.com/xyizko" target="_blank">
-<img src="https://github-visitor-counter-zeta.vercel.app/api?username=xyizko&theme=dark&columns=7&maxflags=250&label=Apes&visitortype=percentage&showlabels=true&size=large">
+<img src="https://github-visitor-counter-zeta.vercel.app/api?username=xyizko&theme=github_dark&columns=8&maxflags=250&label=Apes&visitortype=percentage&size=large">
 </a>
+
 
 </p>
 <p align="center">
