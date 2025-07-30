@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://twitter.com/xyizko" target="_blank">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxyizko&count_bg=%236E1019&title_bg=%23000000&icon=ethereum.svg&icon_color=%23F015FC&title=rekt&edge_flat=true">
+<img src="https://github-visitor-counter-zeta.vercel.app/api?username=xyizko&theme=dark&columns=7&maxflags=250&label=Apes&visitortype=percentage&showlabels=true&size=large">
 </a>
 
 </p>
