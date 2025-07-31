@@ -5,12 +5,6 @@
 </a>
 <p>
 
-<p align="center">
-<a href="https://twitter.com/xyizko" target="_blank">
-<img src="https://github-visitor-counter-zeta.vercel.app/api?username=XYIZKO&theme=github_dark&columns=8&maxflags=250&label=ApeZ&visitortype=percentage&showlabels=true&text=0EFF0A">
-</a>
-
-
 </p>
 <p align="center">
 <a href="https://twitter.com/xyizko" target="_blank">
@@ -19,6 +13,12 @@
 <a href="https://www.youtube.com/@XyiZko" target="_blank">
 <img src="https://img.shields.io/youtube/channel/subscribers/UCFP0GycKuYo1gLxgTP68tdQ"></a>
 </p>
+
+
+<p align="center">
+<a href="https://twitter.com/xyizko" target="_blank">
+<img src="https://github-visitor-counter-zeta.vercel.app/api?username=XYIZKO&theme=github_dark&columns=8&maxflags=250&label=ApeZ&visitortype=percentage&showlabels=true&text=0EFF0A">
+</a>
 
 <p align="center">
 <a href="https://xyizko.github.io/" target="_blank">
